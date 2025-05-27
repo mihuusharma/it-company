@@ -1,1 +1,1 @@
-https://mihuusharma.github.io/portfolio/
+https://mihuusharma.github.io/it-company/
