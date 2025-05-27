@@ -1,1 +1,2 @@
-https://mihuusharma.github.io/it-company/
+https://mihuusharma.github.io/it-company.git
+
